@@ -1,0 +1,1 @@
+Prilikom kreiranja baze izabrati utf8mb4_unicode_ci charset

@@ -1,0 +1,7 @@
+Admin:
+email markodasic70@gmail.com
+password Visokaict1
+
+User:
+email markodasic700@gmail.com
+password Visokaict1
