@@ -4,10 +4,10 @@ Link to view app: http://marko-laravel.online/public/
 Admin:
 email markodasic70@gmail.com
 password Visokaict1
-
 User:
 email markodasic700@gmail.com
 password Visokaict1
+PROMO CODE: Marko Dasic
 
 I did the project myself as an exam requirement for the third, final, year of college.
 This is a web application built in the Laravel framework. The application represents the flower web shop.
